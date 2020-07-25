@@ -1,0 +1,24 @@
+﻿  Binasc.cpp
+  Kompozicija.cpp
+c:\users\car\desktop\poop\poop2\poop2\poop2\pause.h(19): warning C4102: 'std': unreferenced label
+c:\users\car\desktop\poop\poop2\poop2\poop2\kompozicija.cpp(1323): warning C4102: 'std': unreferenced label
+c:\users\car\desktop\poop\poop2\poop2\poop2\kompozicija.cpp(1360): warning C4102: 'std': unreferenced label
+  Measure.cpp
+c:\users\car\desktop\poop\poop2\poop2\poop2\measure.cpp(6): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\car\desktop\poop\poop2\poop2\poop2\measure.cpp(76): warning C4101: 'poslednji': unreferenced local variable
+  MidiEvent.cpp
+  MidiEventList.cpp
+  MidiFile.cpp
+  MidiMessage.cpp
+  MIDITable.cpp
+c:\users\car\desktop\poop\poop2\poop2\poop2\pause.h(19): warning C4102: 'std': unreferenced label
+  Options.cpp
+  Part.cpp
+  poop_MidiFormatter.cpp
+c:\users\car\desktop\poop\poop2\poop2\poop2\pause.h(19): warning C4102: 'std': unreferenced label
+  Source.cpp
+c:\users\car\desktop\poop\poop2\poop2\poop2\pause.h(19): warning C4102: 'std': unreferenced label
+c:\users\car\desktop\poop\poop2\poop2\poop2\source.cpp(12): warning C4102: 'std': unreferenced label
+  Generating Code...
+     Creating library C:\Users\CAR\Desktop\poop\poop2\poop2\Debug\poop2.lib and object C:\Users\CAR\Desktop\poop\poop2\poop2\Debug\poop2.exp
+  poop2.vcxproj -> C:\Users\CAR\Desktop\poop\poop2\poop2\Debug\poop2.dll
